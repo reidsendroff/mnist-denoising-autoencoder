@@ -116,4 +116,4 @@ MNIST and Fashion-MNIST download automatically through torchvision into `./data`
 
 ## Context
 
-Built by **Reid Sendroff** for Harvard Extension School's graduate **CSCI E-89 Deep Learning** course (2026).
+Built by **Reid Sendroff** ([LinkedIn](https://www.linkedin.com/in/reidsendroff)) for Harvard Extension School's graduate **CSCI E-89 Deep Learning** course (2026).
